@@ -7,4 +7,6 @@
 
 [캡스톤 메인 코드](https://github.com/seon0313/Capstone_Main/)
 
+[캡스톤 AI 코드](https://github.com/seon0313/Capstone_AI)
+
 ***
